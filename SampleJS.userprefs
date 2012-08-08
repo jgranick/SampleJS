@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|HTML5" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleJS.nmml">
+    <Files>
+      <File FileName="SampleJS.nmml" Line="10" Column="32" />
+      <File FileName="Source/SampleJS.js" Line="2" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="SampleJS" expanded="True">
+            <Node name="Assets" expanded="True" />
+            <Node name="Source" expanded="True" />
+            <Node name="SampleJS.nmml" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

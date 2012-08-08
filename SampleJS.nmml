@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="SampleJS" package="com.sample.js" version="1.0.0" company="Joshua Granick" />
+	<app file="SampleJS" path="Export" />
+
+	<assets path="Assets" rename="assets" include="*" exclude="nme.svg" />
+	<assets path="Source" rename="" include="*.js" />
+	
+	<icon path="Assets/nme.svg" />
+	
+</project>
